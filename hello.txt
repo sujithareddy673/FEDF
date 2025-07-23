@@ -1,7 +1,2 @@
 hello 
 world
-welcome 
-to
-klu
-aaaaa
-ffff
